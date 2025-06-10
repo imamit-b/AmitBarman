@@ -9,8 +9,8 @@
 
 - 📄 Know about my experiences [https://your-website-link.com](https://my-website-link.com)  <!-- Replace with your actual website link -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitbarman811&show_icons=true&locale=en&layout=compact" alt="amitbarman811" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitbarman811&show_icons=true&locale=en&layout=compact" alt="imamit-b" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitbarman811&show_icons=true&locale=en" alt="amitbarman811" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitbarman811&show_icons=true&locale=en" alt="imamit-b" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitbarman811&" alt="amitbarman811" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imamit-b&" alt="imamit-b" /></p>
